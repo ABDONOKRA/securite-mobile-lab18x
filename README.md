@@ -237,6 +237,9 @@ frida -U -n Firestorm -l frida_firestorm.js
 [*] Recherche des instances terminée.
 ```
 
+  <img width="1164" height="530" alt="image" src="https://github.com/user-attachments/assets/b3cf1a35-c800-4560-b972-1a0e0efb438a" />
+
+
 > ⚠️ **Note importante :** Ce mot de passe est **dynamique** — il change à chaque lancement de l'application car la fonction native `generateRandomString()` introduit une composante aléatoire. Il faut utiliser le mot de passe immédiatement après l'avoir obtenu.
 
 ---
@@ -342,7 +345,8 @@ PWNSEC{C0ngr4ts_Th4t_w45_4N_345y_P4$$w0rd_t0_G3t!!!_OR_!5_!t???}
 
 ## Flag Final   
 
-<img width="1164" height="530" alt="image" src="https://github.com/user-attachments/assets/d0251faa-b839-405d-90c7-3b20852594bc" />
+<img width="922" height="865" alt="image" src="https://github.com/user-attachments/assets/4a5afb2f-ab0d-4287-89ce-eb26a3120eff" />
+
 
 
 ```
